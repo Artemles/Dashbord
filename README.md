@@ -2,6 +2,12 @@
 
 This repository contains several interactive data visualization demos using different libraries and technologies. The goal of these demos is to showcase real-time analytics and visual data representations, potentially useful for companies like StreamHatchet.
 
+## Live Demo
+
+You can view the live demo here:
+
+[**Dashboard Artemles**](https://artemles.github.io/Dashbord/)
+
 ## Demos Included
 
 - **Chart.js Visualization**: A simple dashboard using Chart.js to display basic line, bar, and pie charts.
@@ -31,7 +37,7 @@ To explore each demo, simply click on the links above or open the `index.html` f
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/Artemles/Dashbord.git
+    git clone https://github.com/<your-username>/Dashboard-Artemles.git
     ```
 
 2. Open the `index.html` file in your web browser to access the main dashboard with links to each demo.
