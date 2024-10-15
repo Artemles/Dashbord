@@ -6,7 +6,7 @@ This repository contains several interactive data visualization demos using diff
 
 You can view the live demo here:
 
-[**Dashboard Artemles**](https://artemles.github.io/Dashbord/)
+🔴[**Dashboard Artemles**](https://artemles.github.io/Dashbord/)
 
 ## Demos Included
 
