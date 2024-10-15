@@ -31,7 +31,7 @@ To explore each demo, simply click on the links above or open the `index.html` f
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/<your-username>/Dashboard-Artemles.git
+    git clone https://github.com/Artemles/Dashbord.git
     ```
 
 2. Open the `index.html` file in your web browser to access the main dashboard with links to each demo.
